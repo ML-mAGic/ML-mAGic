@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Karthik Shivaram!
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ## About Me
 I'm a 😄 passionate Machine Learning Scientist with a Ph.D. in Computer Science. I'm enthusiastic about exploring the realms of Artificial Intelligence and its applications to real world issues. 👨‍🔬
 
