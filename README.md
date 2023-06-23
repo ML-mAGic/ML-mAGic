@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 # 👋 Hello, I'm Karthik Shivaram!
 
 ## About Me
@@ -28,4 +25,3 @@ Let's collaborate and make a difference in the world of AI! 🚀🌍
 I'm excited about these projects and look forward to contributing to the machine learning community. Stay tuned for updates and releases! 🎉🙌
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ML-mAGic&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
--->
